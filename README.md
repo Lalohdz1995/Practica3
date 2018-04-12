@@ -1,5 +1,11 @@
-# Practica3
-En arduino von una pantalla LCD y un sensor LM35 desplegar : 
+# Practica 3
+# Proyecto Arduino con LCD y Java.
+>Creado por: Luis Eduardo Hernández Magaña.
+
+>Contacto: luis.hernandez.magana@hotmail.com
+
+##En arduino von una pantalla LCD y un sensor LM35 desplegar : 
+
 La temperatura. 
 La hora.
 Mensajes que el usuarios mande.   
