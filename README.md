@@ -33,4 +33,4 @@ Librerias:
 
 
 ## Diagrama del circuito.
-![alt tag] (https://github.com/Lalohdz1995/Practica3/blob/master/Imagenes/descarga.jpg)
+![alt tag](https://github.com/Lalohdz1995/Practica3/blob/master/Imagenes/descarga.jpg)
