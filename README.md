@@ -34,3 +34,7 @@ Librerias:
 
 ## Diagrama del circuito.
 ![alt tag](https://github.com/Lalohdz1995/Practica3/blob/master/Imagenes/descarga.jpg)
+
+## Interfaz de aplicacion JAVA.
+![alt tag](https://github.com/MiltonDM/UNIDAD_3/blob/master/image/interfaz%201.png)
+## Vista previa de Resultados:
