@@ -37,4 +37,14 @@ Librerias:
 
 ## Interfaz de aplicacion JAVA.
 ![alt tag](https://github.com/Lalohdz1995/Practica3/blob/master/Imagenes/Captura%20de%20pantalla%20(12).png)
+
 ## Vista previa de Resultados:
+
+<table>
+<tr>
+<td><img src=https://github.com/Lalohdz1995/Practica3/blob/master/Imagenes/20180410_160922.jpg></td>
+<td><img src=https://github.com/Lalohdz1995/Practica3/blob/master/Imagenes/20180410_160925.jpg></td>
+<td><img src=https://github.com/Lalohdz1995/Practica3/blob/master/Imagenes/20180410_160929.jpg></td>
+<td><iimg src=https://github.com/Lalohdz1995/Practica3/blob/master/Imagenes/20180410_160933.jpg></td>
+</tr>
+</table>
