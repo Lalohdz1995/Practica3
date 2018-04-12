@@ -17,6 +17,12 @@ Programas:
 - Arduino IDE
 
 Materiales:
+<table>
+<tr>
+<td><Componentes></td>
+<td><Imagen></td>
+<td><Cantidad></td>
+</tr>
 - Protoboard.
 - Arduino UNO.
 - LM35 (sensor de tempatura).
