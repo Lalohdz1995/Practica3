@@ -16,7 +16,7 @@ Programas:
 - Java
 - Arduino IDE
 
-Materiales:
+##Materiales:
 
 - Protoboard.
 - Arduino UNO.
@@ -26,7 +26,7 @@ Materiales:
 - Cables Dupont (20 piezas).
 - Resistencia 220 ohmios.
 
-Librerias:
+##Librerias:
 - RXTXcomm
 - GiovynetDriver
 - jSerialComm-1.3.11
