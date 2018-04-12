@@ -30,3 +30,7 @@ Librerias:
 - GiovynetDriver
 - jSerialComm-1.3.11
 - jgsl-0.1.0-javadoc
+
+
+## Diagrama del circuito.
+![alt tag] https://github.com/Lalohdz1995/Practica3/blob/master/Imagenes/descarga.jpg
