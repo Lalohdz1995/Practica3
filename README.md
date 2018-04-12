@@ -23,6 +23,7 @@ Materiales:
 <td><Imagen></td>
 <td><Cantidad></td>
 </tr>
+ </table>
 - Protoboard.
 - Arduino UNO.
 - LM35 (sensor de tempatura).
